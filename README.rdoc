@@ -1,6 +1,0 @@
-# One Month Rails
-
-This is the pinteresting2 application for
-(*One MOnth Rails*) (http://onemonthrails.com)
-
-by (Omar Amiri)(http://omaramiri.com)
